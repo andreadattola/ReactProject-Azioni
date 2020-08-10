@@ -1,0 +1,10 @@
+.nomestock {
+    padding: 10px;
+    background-color: #ccc;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 5px;
+    color: #000;
+    font-size: 0.8em;
+    cursor: pointer;
+}
